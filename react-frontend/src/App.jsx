@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+    <h1>Pratik G.OA.T.</h1>
       <Navbar/>
       <Footer/>
     </>
