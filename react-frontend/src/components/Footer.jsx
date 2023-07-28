@@ -34,6 +34,6 @@ export default function Footer() {
           <div className="copyright "></div>
         </div>
       </div>
-    </footer >
+    </footer>
   );
 }

@@ -1,18 +1,18 @@
-import Navbar from "./components/Navbar"
-import  'bootstrap/dist/css/bootstrap.min.css';
-import './App.css'
+import Navbar from "./components/Navbar";
+import "./App.css";
 import Footer from "./components/Footer";
-
+import Hero from "./components/Hero";
+import Banner from "./components/Banner";
 
 function App() {
-
   return (
     <>
-    <h1>Demo</h1>
-      <Navbar/>
-      <Footer/>
+      <Banner />
+      <Navbar />
+      <Hero />
+      <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
